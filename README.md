@@ -5,7 +5,7 @@ For general information head over there or read more on the project's website: h
 
 ## How to use this dev version?
 
-1. Follow the official guide http://docs.openframe.io/frame-setup-guide/ to prepare the installation. 
+1. Follow the official guide https://docs.openframe.io/#getting-started to prepare the installation. 
 2. Replace the command in `2.1 Install Openframe` of the guide with `bash -c "$(curl https://gist.githubusercontent.com/jvolker/df05ddc9b4ff40ab0dd1dfa175a0fa3c/raw/)"`. This will install Openframe from the `combinedPR` branch of this repository.
 
 # Issues / Development
